@@ -1,12 +1,12 @@
 {
-    "name": "CMPY",
-    "website": "https://www.cmpy.me/",
-    "description": "CyMon Pay is an online payment system supported by blockchain. It provides global merchants with an e-commerce blockchain payment platform to achieve cross-border real-time payment, fund settlement, query statistics and other functions. To provide global merchants with a more convenient tool for online transactions, and a bridge connecting consumers, merchants and financial institutions.",
-    "explorer": "https://bscscan.com/token/0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B",
-    "type": "BEP20",
-    "symbol": "CMPY",
+    "name": "GHA Foundation",
+    "website": "https://ghaf.biz",
+    "description": "GHA focuses on integrating the hemp industry with blockchain technology through various applications.",
+    "explorer": "https://polygonscan.com/token/0x7585042b97f82404438c778185Ea6F5797B4e8ad",
+    "type": "ERC20",
+    "symbol": "GHAF",
     "decimals": 18,
     "status": "active",
-    "id": "0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B"
-   }
+    "id": "0x7585042b97f82404438c778185Ea6F5797B4e8ad"
+       }
    
